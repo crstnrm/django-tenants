@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: django-multi-tenant
+Version: 1.3
+Summary: Tenant support for Django using PostgreSQL schemas.
+Home-page: https://smartyapp.co
+Author: Cristian Restrepo
+Author-email: cristian.restrepo26@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 1.8
+Classifier: Framework :: Django :: 1.9
+Classifier: Framework :: Django :: 1.10
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Database
+Classifier: Topic :: Software Development :: Libraries

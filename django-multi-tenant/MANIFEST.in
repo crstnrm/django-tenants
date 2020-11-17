@@ -1,0 +1,9 @@
+include LICENSE
+include README.rst
+include *.txt
+
+recursive-include docs *
+
+# exclude all bytecode
+global-exclude *.pyo
+global-exclude *.pyc
